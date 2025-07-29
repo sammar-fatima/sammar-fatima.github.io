@@ -48,8 +48,9 @@ line-spacing: 1.25px;
   <div class="vspacer-20"></div>
   <h3>I AM CURRENTLY</h3>
   <ul class="left" style="float:left !important">
+  <li>a <b>
+Research Biologist</b>/<b>Data Scientist</b> at <a href="https://agriculture.canada.ca/en">Agriculture and Agri-Food Canada (AAFC)</a></li>
   <li>a <b>Founder</b> at <a href="https://pathoscan.com">PathoScan</a></li>
-  <li>a <b>Computational Biologist</b> at <a href="https://agriculture.canada.ca/en">Agriculture and Agri-Food Canada (AAFC)</a></li>
   </ul>
   <br />
   <div class="vspacer-20"></div>
@@ -62,6 +63,6 @@ line-spacing: 1.25px;
   <center>Whatever else that is interesting...</center>
   </ul>
   <h3>LET'S CHAT!</h3>
-  <span>If you are interested in collaborating with me on a project, please <a href="https://calendly.com/avro/tayabsoomro">set up a meeting with me</a></span>. I am looking forward to working with you!
+  <span>If you are interested in collaborating with me on a project, please <a href="https://calendly.com/avro/tayabsoomro">set up a meeting with me</a></span>.<span> I am looking forward to working with you!</span>
   </div>
 </div>

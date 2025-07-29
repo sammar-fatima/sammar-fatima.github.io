@@ -28,17 +28,16 @@ line-spacing: 1px;
 
 <h3> CURRENT ROLES </h3>
 
+- (2024 - Present) Research Biologist/Data Scientist @ [<abbr title="Agriculture and Agri-Food Canada">AAFC</abbr>](https://agriculture.canada.ca/en)
 - (2023 - Present) Founder and CEO @ [PathoScan](https://pathscan.com)
 
 <h3> PAST ROLES </h3>
 
-- (2024 - 2023) **Senior Computational Biologist** @ [FoodImprover Inc.](https://www.saltwire.com/atlantic-canada/more/custom-content/foodimprover-harnesses-fruit-biodiversity-to-grow-agriculture-based-business-100790223/) 
+- ( 2023 ) **Bioinformatics Engineer (Externship)** @ [Avalo, Inc.](http://avalo.ai/)
 
 - (2020 - 2023) **Computational Biologist** @ [NRGene Canada Inc.](https://nrgene.com)    
 
-- ( 2020 ) **Independent web dev contractor** @ [Luxsonic Technologies Inc.](https://luxsonic.ca/)     
-
-- (2019 - 2020) **Student Bioinformatician** @ <abbr title="Agriculture & Agri-Food Canada, Saskatoon Research & Development Centre, Saskatoon, Saskatchewan, Canada">AAFC</abbr>   
+- (2019 - 2020) **Student Bioinformatician** @ [<abbr title="Agriculture and Agri-Food Canada">AAFC</abbr>](https://agriculture.canada.ca/en)   
 
 - (2017 - 2019) **Student Research Assistant** @ [Links Lab](https://agbio.usask.ca/faculty-and-staff/people-pages/matthew-links.php#research_areas), University of Saskatchewan  
 
