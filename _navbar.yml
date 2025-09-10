@@ -6,9 +6,9 @@ left:
   - text: "About Me"
     href: ./about.html
   - text: "Projects"
-    href: ./projects.html
+    href: ./Projects.html
   - text: "Education"
-    href: ./education.html
+    href: ./Education.html
 
 right:
   - icon: fa-github fa-lg
