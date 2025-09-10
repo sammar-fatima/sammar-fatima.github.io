@@ -1,53 +1,29 @@
 ---
+title: "Sammar Fatima"
 output:
   html_document:
     css: ['./css/columns.css','./css/main.css']
-title: "About - Tayab Soomro"
-number_sections: true
 theme: readable
 ---
 
-<style>
-h3 {
-letter-spacing: 0.09em;
-line-spacing: 1px;
-}
-</style>
-
-
 :::::: {.center}
 
+# SAMMAR FATIMA
+
+Bridging Textiles & Tech → Fashion-Tech Product Manager | UX for E-Commerce | Supply Chain | Data Analytics  
 
 --------------
 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tayabsoomro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tayabsoomro) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://tayabsoomro.medium.com/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5590363) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tayabsoomro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@your-medium) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/your-twitter)
 
 --------------
 
 ::::::
 
-<h3> CURRENT ROLES </h3>
+<h3> ABOUT ME </h3>
 
-- (2024 - Present) Research Biologist/Data Scientist @ [<abbr title="Agriculture and Agri-Food Canada">AAFC</abbr>](https://agriculture.canada.ca/en)
-- (2023 - Present) Founder and CEO @ [PathoScan](https://pathscan.com)
+I am a **committed and passionate Textile Engineer** with hands-on experience in **textile production, sustainable dyeing, and startup innovation**. Currently pursuing my **Master’s in Computer Science**, I focus on merging **UX design, data analytics, and fashion-tech product management**.  
 
-<h3> PAST ROLES </h3>
-
-- ( 2023 ) **Bioinformatics Engineer (Externship)** @ [Avalo, Inc.](http://avalo.ai/)
-
-- (2020 - 2023) **Computational Biologist** @ [NRGene Canada Inc.](https://nrgene.com)    
-
-- (2019 - 2020) **Student Bioinformatician** @ [<abbr title="Agriculture and Agri-Food Canada">AAFC</abbr>](https://agriculture.canada.ca/en)   
-
-- (2017 - 2019) **Student Research Assistant** @ [Links Lab](https://agbio.usask.ca/faculty-and-staff/people-pages/matthew-links.php#research_areas), University of Saskatchewan  
-
-<h3> EDUCATION </h3>
-
-- (2020 - 2022) **M.Sc. Agriculture**    
-  * Institute of Comparative Genomics, Faculty of Agriculture @ Dalhousie University  
-  
-  <br />
-  
-- (2015 - 2020) **B.Sc. (Honours) Bioinformatics**    
-  * Department of Computer Science, University of Saskatchewan
-
+With **marketing experience at Mangorio** and **leadership roles at MUET**, I combine creativity, technology, and business insights to deliver impactful solutions.
