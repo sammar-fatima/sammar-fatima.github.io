@@ -1,14 +1,19 @@
 name: "sammar-fatima.com"
 title: "<b>Sammar Fatima</b>"
 type: inverse
+
 left:
-  - text: "about me"
-    href: './about.html'
+  - text: "About Me"
+    href: ./about.html
   - text: "Projects"
-    href: './Projects.html'
+    href: ./projects.html
+  - text: "Education"
+    href: ./education.html
+
 right:
   - icon: fa-github fa-lg
     href: https://github.com/sammar-fatima
   - icon: fa-linkedin fa-lg
     href: https://www.linkedin.com/in/sammar-fatima390/
+
  
