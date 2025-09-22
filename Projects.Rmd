@@ -15,7 +15,7 @@ title: "Projects - Sammar Fatima"
   - Combining Bale Opener and REnnic methods for efficient fiber preparation.  
 - Optimizing workflow to reduce waste and energy consumption.  
 
-- **Sustainable Dyeing Techniques**:  
+- [**Sustainable Dyeing Techniques**](https://docs.google.com/presentation/d/e/2PACX-1vTGDr47RSpNqWsDuM8Uc6FVSmWAL_oBDi8PFg3zL2-LzFvmm3wOHS1x3meRIf-09g/pub?start=false&loop=true&delayms=3000):  
   - Utilizing eco-friendly natural dyes to minimize environmental impact.  
 - Experimenting with color fastness, vibrancy, and durability.  
 
