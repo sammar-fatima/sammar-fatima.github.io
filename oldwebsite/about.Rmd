@@ -1,0 +1,29 @@
+---
+title: "Sammar Fatima"
+output:
+  html_document:
+    css: ['./css/columns.css','./css/main.css']
+theme: readable
+---
+
+:::::: {.center}
+
+# SAMMAR FATIMA
+
+Bridging Textiles & Tech → Fashion-Tech Product Manager | UX for E-Commerce | Supply Chain | Data Analytics  
+
+--------------
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@your-medium) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/your-twitter)
+
+--------------
+
+::::::
+
+<h3> ABOUT ME </h3>
+
+I am a **committed and passionate Textile Engineer** with hands-on experience in **textile production, sustainable dyeing, and startup innovation**. Currently pursuing my **Master’s in Computer Science**, I focus on merging **UX design, data analytics, and fashion-tech product management**.  
+
+With **marketing experience at Mangorio** and **leadership roles at MUET**, I combine creativity, technology, and business insights to deliver impactful solutions.
